@@ -1,0 +1,9 @@
+ports:
+  web: [80, 443, 8080, 8443]
+  additional: [22, 3306]
+timeout:
+  port: 1
+  http: 3
+threads:
+  host: 50
+  port: 10
