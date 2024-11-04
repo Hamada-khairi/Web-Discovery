@@ -40,7 +40,7 @@ A comprehensive, production-ready network scanning and service discovery tool bu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/Hamada-khairi/Web-Discovery.git
 cd network-scanner
 ```
 
